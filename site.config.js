@@ -13,12 +13,12 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'The Voice Of Rùn',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'RyanG',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'Leo',
-  github: 'fat-bamboo',
+  twitter: 'Leo || https://github.com/fat-bamboo',
+  github: 'fat-bamboo || https://github.com/fat-bamboo',
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
