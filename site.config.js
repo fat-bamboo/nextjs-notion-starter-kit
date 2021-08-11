@@ -17,8 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'Leo || https://github.com/fat-bamboo',
-  github: 'fat-bamboo || https://github.com/fat-bamboo',
+  twitter: 'ryan2082339010', // https://twitter.com/ryan2082339010
+  github: 'fat-bamboo', // https://github.com/fat-bamboo
+  weibo: '6161396829', // https://weibo.com/u/6161396829
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
