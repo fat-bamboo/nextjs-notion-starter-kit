@@ -12,14 +12,14 @@ module.exports = {
   author: '音澜',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'The Voice Of Rùn',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'Leo',
+  github: 'fat-bamboo',
+  //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
