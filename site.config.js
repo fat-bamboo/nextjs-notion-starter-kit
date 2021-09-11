@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'f5f49c4de0fb471eb995dafb11154d7c',
+  rootNotionPageId: '45b3c6e2e3874dfab1c2ae2c83e8dbdf',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '「润物有声」',
-  domain: 'https://www.notion.so/f5f49c4de0fb471eb995dafb11154d7c',
+  domain: 'https://www.notion.so/45b3c6e2e3874dfab1c2ae2c83e8dbdf',
   author: '音澜',
 
   // open graph metadata (optional)
